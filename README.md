@@ -1,4 +1,4 @@
-# 02-VAISHNAVI_WOLFRAM_25-11-2026
+# 48-VAISHNAVI_WOLFRAM_25-11-2026
 Wolfram Demonstrations – Simulation Based Learning
 
 Mathematics for AI/ML
